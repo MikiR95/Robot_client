@@ -1,0 +1,24 @@
+[0.738s] Invoking command in '/home/rafal/Robot_client/ros2_ws/build/camera_sub_pkg': PYTHONPATH=/home/rafal/Robot_client/ros2_ws/build/camera_sub_pkg/prefix_override:/home/rafal/Robot_client/ros2_ws/install/camera_sub_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/rafal/Robot_client/ros2_ws/build/camera_sub_pkg/build --no-deps install_data
+[0.960s] running develop
+[1.094s] running egg_info
+[1.094s] creating camera_sub_pkg.egg-info
+[1.095s] writing camera_sub_pkg.egg-info/PKG-INFO
+[1.095s] writing dependency_links to camera_sub_pkg.egg-info/dependency_links.txt
+[1.095s] writing entry points to camera_sub_pkg.egg-info/entry_points.txt
+[1.095s] writing requirements to camera_sub_pkg.egg-info/requires.txt
+[1.095s] writing top-level names to camera_sub_pkg.egg-info/top_level.txt
+[1.095s] writing manifest file 'camera_sub_pkg.egg-info/SOURCES.txt'
+[1.096s] reading manifest file 'camera_sub_pkg.egg-info/SOURCES.txt'
+[1.097s] writing manifest file 'camera_sub_pkg.egg-info/SOURCES.txt'
+[1.098s] running build_ext
+[1.098s] Creating /home/rafal/Robot_client/ros2_ws/install/camera_sub_pkg/lib/python3.10/site-packages/camera-sub-pkg.egg-link (link to .)
+[1.098s] Installing camera_subscriber script to /home/rafal/Robot_client/ros2_ws/install/camera_sub_pkg/lib/camera_sub_pkg
+[1.099s] 
+[1.099s] Installed /home/rafal/Robot_client/ros2_ws/build/camera_sub_pkg
+[1.099s] running install_data
+[1.099s] creating /home/rafal/Robot_client/ros2_ws/install/camera_sub_pkg/share/ament_index
+[1.099s] creating /home/rafal/Robot_client/ros2_ws/install/camera_sub_pkg/share/ament_index/resource_index
+[1.099s] creating /home/rafal/Robot_client/ros2_ws/install/camera_sub_pkg/share/ament_index/resource_index/packages
+[1.099s] copying resource/camera_sub_pkg -> /home/rafal/Robot_client/ros2_ws/install/camera_sub_pkg/share/ament_index/resource_index/packages
+[1.099s] copying package.xml -> /home/rafal/Robot_client/ros2_ws/install/camera_sub_pkg/share/camera_sub_pkg
+[1.121s] Invoked command in '/home/rafal/Robot_client/ros2_ws/build/camera_sub_pkg' returned '0': PYTHONPATH=/home/rafal/Robot_client/ros2_ws/build/camera_sub_pkg/prefix_override:/home/rafal/Robot_client/ros2_ws/install/camera_sub_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/rafal/Robot_client/ros2_ws/build/camera_sub_pkg/build --no-deps install_data
