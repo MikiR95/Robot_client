@@ -1,1 +1,0 @@
-/home/rafal/Robot_client/ros2_ws/src/camera_sub_pkg/setup.py
